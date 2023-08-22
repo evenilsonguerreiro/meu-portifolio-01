@@ -6,8 +6,8 @@
         
     }
     header h1{
-        text-align: center;
-        font-size: 1.3em;
+        text-align: start;
+        font-size: 1em;
         
     }
     main{
@@ -17,31 +17,33 @@
     }
     main h2{
         margin-top: 5px;
+       
+        
     }
     main h1{
-        font-size: 1.6em;
+        font-size: 0.7em;
     }
     main p{
-        font-size: 0.7em;
-        line-height: 18px;
+        font-size: 0.6em;
+        line-height: 15px;
     }
     
     .left h1{
         margin-bottom: 0;
     }
-    h2{
-        margin-bottom: 0;
+    .left h2{
+        margin-bottom: 3px;
+        font-size: 0.7em;
+        
     }
     img{
        text-align: center;
-       margin-left: 4px; 
-        
+         
     }
     dv-3, p {
         padding: 10px;
-        font-size: 0.9em;
-        line-height: 20px;
-        
+        font-size: 0.6em;
+        line-height: 15px;    
     }
     dv-4, p{
         padding: 10px;
@@ -52,6 +54,7 @@
     }
     footer{
         display: block;
+        font-size: 0.7em;
         
         
     }
