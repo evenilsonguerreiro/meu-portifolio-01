@@ -35,11 +35,7 @@ main{
     margin-bottom: 10px;
 
 }
-.ringth{
-    width: 390px;
 
-    
-}
 h2{
     background-image: linear-gradient(to right,rgb(30, 201, 244),transparent);
     padding: 5px;
@@ -103,20 +99,7 @@ footer{
     padding: 20px;
     margin-top: 10px;
 }
-@media (max-width:450px){
-    header h1{
-        text-align: center;
-        font-size: 1em;
-    }
-     img{
-      margin-left: 10%; 
-      border: 2px solid rgb(132, 3, 80); 
-    }
-    .icones{
-        margin-left:20px;
-    }
-    
-    
-}
+
+
 
 
