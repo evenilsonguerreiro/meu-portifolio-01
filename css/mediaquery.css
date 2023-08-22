@@ -5,6 +5,10 @@
     header{
         
     }
+    main{
+        display: block;
+        
+    }
     
     header h1{
         text-align: start;
@@ -32,9 +36,9 @@
         
     }
     img{
-       text-align: center;
        width: 350px;
-       margin-left: 10px;
+       margin: 0;
+       
        
          
     }
