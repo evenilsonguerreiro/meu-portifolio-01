@@ -1,67 +1,59 @@
-@media  (min-width:600px) {
-    dv-1, h1{
-        font-size: 1em;
-        text-align: center;
-        margin-left: -40px;
-    }
-    body{
-
+@media  (max-width:450px) {
+    body, html{
         overflow-x: hidden;
     }
-
-
-
+    header{
+        
+    }
+    header h1{
+        text-align: center;
+        font-size: 1.3em;
+        
+    }
     main{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;      
+        display: block;
+       
     }
-    img{
-        margin-left: -25px;
-        width: 300px;
-        
+    main h2{
+        margin-top: 5px;
     }
-    p{
+    main h1{
+        font-size: 1.6em;
+    }
+    main p{
         font-size: 0.9em;
-        
+        line-height: 20px;
     }
     .left h1{
-        margin: auto;
-        font-size: 1.5em;
+        margin-bottom: 0;
     }
     h2{
-        text-align: center;
+        margin-bottom: 0;
     }
 
-    section{
-        max-width: 400px;
-        overflow-x: hidden;
-        overflow-y: hidden;
-    }
-    .dv-3{
+    .ringht{
+        display: block;
         
     }
-    .dv-4{
+    img{
+        align-items: center;
+        margin-left: 20%;
+    }
+    dv-3, p {
+        padding: 10px;
+        font-size: 0.9em;
+        line-height: 20px;
         
+    }
+    dv-4, p{
+        padding: 10px;
+
     }
     .icones{
+        margin-left: -20px;
         
         
     }
-    footer{
-        padding: 0;
-        height: 10vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    
-    
-    
-        
-        
-    
 
-
+    
 }
