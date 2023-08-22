@@ -33,11 +33,12 @@
 
     .ringht{
         display: block;
+        text-align: center;
         
     }
     img{
-        align-items: center;
-        margin-left: 20%;
+        
+        
     }
     dv-3, p {
         padding: 10px;
