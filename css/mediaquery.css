@@ -12,6 +12,7 @@
     }
     main{
         display: block;
+        padding: 20px;
        
     }
     main h2{
@@ -37,7 +38,7 @@
         
     }
     img{
-        
+        margin-left: 10px;
         
     }
     dv-3, p {
@@ -51,9 +52,11 @@
 
     }
     .icones{
-        margin-left: -20px;
-        
-        
+        margin-left: -20px;   
+    }
+    footer{
+        display: block;
+        text-align: center;
     }
 
     
