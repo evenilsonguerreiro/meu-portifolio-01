@@ -1,0 +1,37 @@
+@media screen and (min-width:600px) {
+    dv-1, h1{
+        font-size: 1em;
+        text-align: center;
+        margin-left: -40px;
+    }
+    main{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        
+    }
+    .left h1{
+        margin: auto;
+        font-size: 1.5em;
+    }
+    h2{
+        text-align: center;
+    }
+    .dv-3{
+        padding: 5px;
+    }
+    .dv-4{
+        padding: 5px;
+    }
+    footer{
+        width: 100vw;
+    }
+    
+    
+        
+        
+    
+
+
+}
