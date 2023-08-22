@@ -12,6 +12,11 @@
     }
     img{
         margin: 0;
+        width: 300px;
+        margin: auto;
+    }
+    p{
+        font-size: 1em;
     }
     .left h1{
         margin: auto;
@@ -26,9 +31,11 @@
     .dv-4{
         padding: 5px;
     }
-    footer{
-        width: 100vw;
+    .icones{
+        text-align: center;
+        
     }
+    
     
     
         
