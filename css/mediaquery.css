@@ -6,7 +6,7 @@
         
     }
     main{
-        display: block;
+        display: inline-block;
         
     }
     
@@ -23,7 +23,7 @@
         font-size: 0.7em;
     }
     main p{
-        font-size: 0.6em;
+        font-size: 0.5em;
         line-height: 15px;
     }
     
@@ -36,8 +36,7 @@
         
     }
     img{
-       width: 300px;
-            
+       width: 100%;      
     }
     dv-3, p {
         padding: 10px;
