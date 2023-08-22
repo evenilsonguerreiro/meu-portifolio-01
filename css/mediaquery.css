@@ -11,8 +11,8 @@
         
     }
     main{
-        display: block;
-        padding: 20px;
+        
+        
        
     }
     main h2{
@@ -33,7 +33,8 @@
         margin-bottom: 0;
     }
     img{
-       text-align: center; 
+       text-align: center;
+       margin-left: 4px; 
         
     }
     dv-3, p {
