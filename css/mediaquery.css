@@ -1,4 +1,4 @@
-@media  (max-width:600px) {
+@media  (min-width:600px) {
     dv-1, h1{
         font-size: 1em;
         text-align: center;
@@ -9,7 +9,9 @@
         justify-content: center;
         align-items: center;
         flex-direction: column; 
-        padding: 20px;   
+       
+        
+          
     }
     img{
         margin-left: -25px;
@@ -18,7 +20,7 @@
     }
     p{
         font-size: 0.9em;
-        padding: 10px;
+        
     }
     .left h1{
         margin: auto;
@@ -36,6 +38,13 @@
     .icones{
         text-align: center;
         
+    }
+    footer{
+        padding: 0;
+        height: 10vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
     
     
