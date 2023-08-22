@@ -1,4 +1,4 @@
-@media screen and (min-width:600px) {
+@media screen and (max-width:450px) {
     dv-1, h1{
         font-size: 1em;
         text-align: center;
@@ -8,8 +8,10 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        flex-direction: column;
-        
+        flex-direction: column;    
+    }
+    img{
+        margin: 0;
     }
     .left h1{
         margin: auto;
