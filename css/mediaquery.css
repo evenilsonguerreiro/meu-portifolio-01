@@ -5,15 +5,10 @@
     header{
         
     }
+    
     header h1{
         text-align: start;
-        font-size: 1em;
-        
-    }
-    main{
-        
-        
-       
+        font-size: 1em;   
     }
     main h2{
         margin-top: 5px;
@@ -38,6 +33,7 @@
     }
     img{
        text-align: center;
+       width: 350px;
          
     }
     dv-3, p {
