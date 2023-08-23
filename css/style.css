@@ -44,14 +44,13 @@ h2{
 }
 a{
     text-decoration: none;
+   
+    
 }
 
 img{
     width:300px;
-    border-radius: 5px;
-    
-    
-    
+    border-radius: 5px;   
 }
 section{
     max-width: 1000px;
@@ -79,10 +78,11 @@ dv-4{
 }
 
 .icone{
-    font-size: 40px;
-    color:yellow;
-    margin: 10px;
-    cursor: pointer;
+    width: 50px;
+    margin: 15px;
+    
+    
+    
 }
 
 footer{

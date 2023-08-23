@@ -23,8 +23,9 @@
         font-size: 0.8em;
     }
     main p{
-        font-size: 0.8em;
+        font-size: 0.7em;
         line-height: 14px;
+        text-align:start;
     }
     
     .left h1{
@@ -48,11 +49,18 @@
 
     }
     .icones{
-        margin-left: -20px;   
+        
+    }
+
+
+    .icone{
+        width: 25px;
+          
     }
     footer{
         display: block;
         font-size: 0.7em;
+        text-align: start;
         
         
     }
