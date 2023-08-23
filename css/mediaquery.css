@@ -11,7 +11,7 @@
     }
     
     header h1{
-        text-align: start;
+        text-align: center;
         font-size: 1em;   
     }
     main h2{
@@ -62,15 +62,27 @@
         padding: 10px;
            
     }
-    nav ul li{
-        border: 1px solid purple;
+    nav{
+        display: block;
+    }
+    nav ul {
+        
         padding: 10px;
         border-radius: 10px;
         margin-top: 5px ;
         margin-bottom: 5px;
         font-size: 0.8em;
-        text-align: center;
+        text-align:start;
+        
     }
+    li{
+        border: 1px solid purple;
+        width: 100%; 
+        margin: auto; 
+    }
+
+
+
     li:hover{
         background-color: rgb(243, 67, 243);
         
