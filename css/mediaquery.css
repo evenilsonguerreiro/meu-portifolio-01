@@ -13,19 +13,24 @@
     
     header h1{
         text-align: start;
-        font-size: 1em;   
+        font-size: 1em; 
+         
     }
     main h2{
-        margin-top: 5px;    
+        margin-top: 5px; 
+        color: #fff;   
     }
     main h1{
         font-size: 0.8em;
+        color:#fff
     }
     main p{
         font-size: 0.8em;
         line-height: 15px;
-        margin-left: 5px;
-        
+        margin-left: 5px;   
+    }
+    main,a{
+        color: yellow;
     }
     
     .left h1{
@@ -65,8 +70,8 @@
         padding: 10px;
            
     }
-    nav{
-        
+    nav a{
+       color: #fff; 
     }
     nav ul {
         
