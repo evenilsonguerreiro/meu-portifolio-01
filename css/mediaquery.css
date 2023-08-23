@@ -23,6 +23,7 @@
     main p{
         font-size: 0.8em;
         line-height: 15px;
+        margin-left: 5px;
         
     }
     
@@ -58,10 +59,21 @@
         justify-content: center;
         align-items: center;
         font-size: 0.7em;
-        
-        
+        padding: 10px;
+           
+    }
+    li{
+        border: 1px solid purple;
+        padding: 10px;
+        border-radius: 10px;
+        margin-top: 5px ;
+        margin-bottom: 5px;
+        margin-left: 5px;
+        font-size: 0.8em;
+    }
+    li:hover{
+        background-color: rgb(243, 67, 243);
         
     }
-
     
 }
