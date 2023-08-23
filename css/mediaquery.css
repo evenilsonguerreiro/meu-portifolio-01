@@ -38,7 +38,7 @@
     }
    
     img{
-       width:99%; 
+       width:80%; 
        
             
     }
@@ -79,12 +79,13 @@
     li{
         border: 1px solid purple;
         width: 310px; 
-        background-color: rgba(152, 231, 237, 0.669);
+        background-color: rgba(143, 206, 210, 0.669);
         
     }
 
     li:hover{
-        background-color: rgb(174, 171, 174);
+        background-color: rgb(202, 197, 202);
+        color:#fff
         
     }
     
