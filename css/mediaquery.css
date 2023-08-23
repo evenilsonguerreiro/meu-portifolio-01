@@ -1,7 +1,7 @@
 @media  (max-width:420px) {
     body, html{
         overflow-x: hidden;
-        background-color: rgba(197, 194, 194, 0.499);
+        background-color:black;
     }
     header{
         
@@ -46,7 +46,8 @@
     dv-3, p {
         padding: 10px;
         font-size: 0.7em;
-        line-height: 15px;    
+        line-height: 15px; 
+        color: #fff;   
     }
     dv-4, p{
         
@@ -80,7 +81,7 @@
     li{
         border: 1px solid purple;
         width: 310px; 
-        background-color: rgba(143, 206, 210, 0.669);
+        background-color:rgb(30, 201, 244);
         
     }
 
