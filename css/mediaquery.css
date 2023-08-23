@@ -1,4 +1,4 @@
-@media  (max-width:450px) {
+@media  (max-width:420px) {
     body, html{
         overflow-x: hidden;
     }
@@ -63,7 +63,7 @@
            
     }
     nav{
-        display: block;
+        
     }
     nav ul {
         
@@ -81,10 +81,8 @@
         margin: auto; 
     }
 
-
-
     li:hover{
-        background-color: rgb(243, 67, 243);
+        background-color: rgb(174, 171, 174);
         
     }
     

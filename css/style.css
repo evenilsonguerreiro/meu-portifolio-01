@@ -72,9 +72,11 @@ dv-4{
     align-items: center;
     max-width: 1000px;
     height: 10vh;
-    background-color:rgb(228, 224, 228);
+    background-color:rgb(59, 2, 59);
     margin: auto;
     box-shadow: 3px 3px 0px#00000087;
+    
+    
 }
 
 .icone{
@@ -91,7 +93,6 @@ nav ul li{
     border-radius: 10px;
     margin-top: 5px ;
     margin-bottom: 5px;
-    margin-left: 5px;
     font-size: 0.8em;
     list-style: none;
 }
