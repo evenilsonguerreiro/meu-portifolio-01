@@ -77,7 +77,8 @@
     }
     li{
         border: 1px solid purple;
-        width: 300px; 
+        width: 310px; 
+        background-color: rgba(152, 231, 237, 0.669);
         
     }
 
