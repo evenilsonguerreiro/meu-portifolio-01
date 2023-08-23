@@ -27,11 +27,11 @@
     }
     
     .left h1{
-        margin-bottom: 0;
+        margin-bottom: 5px;
         margin-left: 1;
     }
     .left h2{
-        margin-bottom: 3px;
+        margin-bottom: 5px;
         font-size: 0.8em;   
     }
    
@@ -41,7 +41,7 @@
             
     }
     dv-3, p {
-        padding: 4px;
+        padding: 10px;
         font-size: 0.7em;
         line-height: 15px;    
     }
