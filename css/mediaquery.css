@@ -30,14 +30,16 @@
     
     .left h1{
         margin-bottom: 0;
+        margin-left: 1;
     }
     .left h2{
         margin-bottom: 3px;
-        font-size: 0.8em;
-        
+        font-size: 0.8em;   
     }
+   
     img{
-       width: 100%;      
+       width: 290px; 
+       margin-left: 20%;     
     }
     dv-3, p {
         padding: 10px;
@@ -54,13 +56,15 @@
 
 
     .icone{
-        width: 25px;
+        width: 40px;
           
     }
-    footer{
-        display: block;
+    footer p{
+        display: flex;
+        justify-content: center;
+        align-items: center;
         font-size: 0.7em;
-        text-align: start;
+        
         
         
     }

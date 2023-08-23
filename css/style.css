@@ -26,7 +26,7 @@ main{
 .left{
     flex: 1;
     width: 390px;
-    padding-left: 10px;
+    
     
 }
 .left h1{
@@ -90,7 +90,6 @@ footer{
     width: 100%;
     color: #fff;
     text-align: center;
-    padding: 20px;
     margin-top: 10px;
 }
 
