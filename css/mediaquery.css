@@ -27,7 +27,8 @@
     main p{
         font-size: 0.8em;
         line-height: 15px;
-        margin-left: 5px;   
+        margin-left: 5px; 
+    
     }
     main,a{
         color: yellow;
@@ -97,3 +98,4 @@
     }
     
 }
+
